@@ -16,6 +16,6 @@ Relational database project for aircraft incidents using R. Includes scripts for
 - `incidents.csv`- Aircraft Incident CSV worked with in this project. 
 
 ## PDF Reports
-- [CS3200FinalProject.pdf](CS3200FinalProject.pdf) - Design for normalized relational database schema.
+- [normalizedSchema.pdf](normalizedSchema.pdf) - Design for normalized relational database schema.
 - [IncidentsReport.PractI.pdf](IncidentsReport.PractI.pdf) - Analysis and visualization report for IncidentsReport.PractI.Rmd -- Visual Analysis.
 
